@@ -1,5 +1,5 @@
-#<span>steganography</span>.py
-<span>steganography</span>.py is a Python program that conceals or reveals a secret message within a plain text message encoded using unicode Zero-Width Joiners. 
+#steganography.py
+steganography.py is a Python program that conceals or reveals a secret message within a plain text message encoded using unicode Zero-Width Joiners. 
 
 
 ####How does it work?
